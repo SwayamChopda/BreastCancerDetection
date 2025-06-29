@@ -64,11 +64,11 @@ Click Run ▶️ to launch the app
 
 📸 Screenshots
 <p float="left">
-  <img src="screenshots/bcds ss 1.png" width="250"/>
-  <img src="screenshots/bcds ss 2.png" width="250"/>
-  <img src="screenshots/bcds ss 3.png" width="250"/>
-  <img src="screenshots/bcds ss 4.png" width="250"/>
-  <img src="screenshots/bcds ss 5.png" width="250"/>
+  <img src="screenshots/bcds ss 1.jpg" width="250"/>
+  <img src="screenshots/bcds ss 2.jpg" width="250"/>
+  <img src="screenshots/bcds ss 3.jpg" width="250"/>
+  <img src="screenshots/bcds ss 4.jpg" width="250"/>
+  <img src="screenshots/bcds ss 5.pjpg" width="250"/>
 </p>
 
 
