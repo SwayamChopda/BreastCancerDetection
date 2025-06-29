@@ -63,7 +63,13 @@ Connect an Android device or use an emulator
 Click Run ▶️ to launch the app
 
 📸 Screenshots
-(You can upload screenshots here to visually show how the app works.)
+<p float="left">
+  <img src="screenshots/bcds ss 1.png" width="250"/>
+  <img src="screenshots/bcds ss 2.png" width="250"/>
+  <img src="screenshots/bcds ss 3.png" width="250"/>
+  <img src="screenshots/bcds ss 4.png" width="250"/>
+  <img src="screenshots/bcds ss 5.png" width="250"/>
+</p>
 
 📃 License
 This project is licensed under the MIT License.
