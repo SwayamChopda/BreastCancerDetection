@@ -83,9 +83,6 @@ GitHub: @SwayamChopda
 ⭐️ Show Your Support
 If you like this project, give it a ⭐️ and share it with others!
 
-yaml
-Copy
-Edit
 
 ---
 
